@@ -9,9 +9,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "screen", "screen", "{11034D
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "logs", "logs", "{868E581D-6972-4CE7-B6CC-F1352449895B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1", "ClassLibrary1\ClassLibrary1.csproj", "{481B9E40-DE7B-4A65-9B0C-37E07349B0DA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AplicationLayer", "ClassLibrary1\AplicationLayer.csproj", "{481B9E40-DE7B-4A65-9B0C-37E07349B0DA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary2", "ClassLibrary2\ClassLibrary2.csproj", "{111D5119-1F1D-464D-8685-1A1E0FCFCE0B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonLibs", "ClassLibrary2\CommonLibs.csproj", "{111D5119-1F1D-464D-8685-1A1E0FCFCE0B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
